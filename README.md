@@ -1,2 +1,2 @@
 # Minecraft
-Minecraft code pack
+Create program code for Minecraft add-ons, etc.
